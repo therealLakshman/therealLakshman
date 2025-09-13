@@ -5,12 +5,12 @@
       <img src="https://github.com/therealLakshman.png" width="200" style="border-radius:50%">
     </td>
     <td>
+      <h1>Hello there 👋, I'm Lakshman Bharath</h1>
       🌟 <b>AI/ML Engineering Enthusiast</b><br>
       💡 I love turning ideas into practical ML & AI solutions.
     </td>
   </tr>
 </table>
-
 
 ---
 
