@@ -1,11 +1,16 @@
 # Hello there 👋, I'm Lakshman Bharath  
+<table>
+  <tr>
+    <td width="220">
+      <img src="https://github.com/therealLakshman.png" width="200" style="border-radius:50%">
+    </td>
+    <td>
+      🌟 <b>AI/ML Engineering Enthusiast</b><br>
+      💡 I love turning ideas into practical ML & AI solutions.
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github.com/therealLakshman.png" width="200" style="border-radius:50%" />
-</p>
-
-🌟 **AI/ML Engineering Enthusiast**  
-💡 I love turning ideas into practical ML & AI solutions.  
 
 ---
 
