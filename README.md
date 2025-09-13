@@ -1,5 +1,8 @@
 # Hello there 👋, I'm Lakshman Bharath  
 
+<img src="https://github.com/therealLakshman.png" width="150" align="left" />
+
+
 🌟 **AI/ML Engineering Enthusiast**  
 💡 I love turning ideas into practical ML & AI solutions.  
 
