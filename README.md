@@ -1,5 +1,4 @@
-# Hello there 👋, I'm Lakshman Bharath  
-<table>
+  <table>
   <tr>
     <td width="220">
       <img src="https://github.com/therealLakshman.png" width="200" style="border-radius:50%">
