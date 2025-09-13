@@ -1,21 +1,13 @@
-  <table>
-  <tr>
-    <td width="220">
-      <img src="https://github.com/therealLakshman.png" width="200" style="border-radius:50%">
-    </td>
-    <td>
-      <h1>Hello there 👋, I'm Lakshman Bharath</h1>
-      🌟 <b>AI/ML Engineering Enthusiast</b><br>
-      💡 I love turning ideas into practical ML & AI solutions.
-    </td>
-  </tr>
-</table>
+# Hello there 👋, I'm Lakshman Bharath  
+
+🌟 **AI/ML Engineer | Specializing in Generative AI & NLP**  
+💡 I love turning ideas into practical ML & AI solutions.  
 
 ---
 
 ## 🙋‍♂️ About Me  
 - 🔭 I’m currently working on **AI, ML, NLP, and Generative AI projects**.   
-- 🤝 I’m looking to collaborate on **end-to-end AI/ML projects**.  
+- 🤝 I’m open to collaborating on open-source Generative AI projects and seeking full-time AI/ML Engineer roles **.  
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning, NLP, LLMs, and Generative AI**.  
 - 📧 Reach me at: **lakshmanbharath410@gmail.com**  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/lakshman-bharath-b33220124)  
